@@ -289,8 +289,7 @@ return (
     {/* FOOTER */}
     <footer className="py-6 border-t bg-white/50 backdrop-blur-xl mt-12 shadow-inner">
       <div className="max-w-6xl mx-auto px-6 text-sm text-slate-600 flex justify-between">
-        <p>© {new Date().getFullYear()} Lekshmi R. Rajan — Built with React & Tailwind</p>
-        <p className="hidden sm:block">Made with ❤️ in India</p>
+       
       </div>
     </footer>
 
